@@ -1,5 +1,5 @@
 {
-  "homepage": "http://MGVM.github.io/5130f2022",
+  "homepage": "http://MGVM.github.io/Term_Project-5130f2022",
   "name": "systune",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +9,8 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "add": "^2.0.6",
+    "git": "^0.1.5",
     "mdb-react-ui-kit": "^5.0.0",
     "prettier": "^2.8.0",
     "react": "^18.2.0",
