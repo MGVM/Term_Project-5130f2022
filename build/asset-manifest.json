@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Term_Project-5130f2022/static/css/main.2a3ae30d.css",
+    "main.js": "/Term_Project-5130f2022/static/js/main.c317f85d.js",
+    "static/js/787.9744aba6.chunk.js": "/Term_Project-5130f2022/static/js/787.9744aba6.chunk.js",
+    "static/media/GTA.jpg": "/Term_Project-5130f2022/static/media/GTA.5607138818ffa78296df.jpg",
+    "static/media/COD.jpg": "/Term_Project-5130f2022/static/media/COD.7afff8b4299c1f0c5bfb.jpg",
+    "static/media/Field_of_view.png": "/Term_Project-5130f2022/static/media/Field_of_view.bd58ddd347d1b433f58c.png",
+    "static/media/fortnite.png": "/Term_Project-5130f2022/static/media/fortnite.ba201d28f0f503187790.png",
+    "static/media/fidelity.png": "/Term_Project-5130f2022/static/media/fidelity.aea71da34f8978e9f28a.png",
+    "static/media/grass_quality.jpg": "/Term_Project-5130f2022/static/media/grass_quality.8396604a9a2f1e60b01c.jpg",
+    "static/media/fortnite.jpg": "/Term_Project-5130f2022/static/media/fortnite.870052f89ee7e1a50b4f.jpg",
+    "static/media/texture_resolution.jpg": "/Term_Project-5130f2022/static/media/texture_resolution.1c5e32bcd5b0ef0d3d06.jpg",
+    "static/media/COD.png": "/Term_Project-5130f2022/static/media/COD.b687afda3d557b2f97af.png",
+    "static/media/gta_v.png": "/Term_Project-5130f2022/static/media/gta_v.1e1101246158a1f60aae.png",
+    "static/media/3D.jpg": "/Term_Project-5130f2022/static/media/3D.66eb98d4fe54a6ad848d.jpg",
+    "static/media/reflection_quality.jpg": "/Term_Project-5130f2022/static/media/reflection_quality.ca9903c1355f81419c37.jpg",
+    "static/media/anti_aliasing.jpg": "/Term_Project-5130f2022/static/media/anti_aliasing.df0d988e791403d5b783.jpg",
+    "static/media/shadow_quality.jpg": "/Term_Project-5130f2022/static/media/shadow_quality.e42d357ad40241abb270.jpg",
+    "static/media/shader_quality.jpg": "/Term_Project-5130f2022/static/media/shader_quality.af8f3696d23b0206cd62.jpg",
+    "index.html": "/Term_Project-5130f2022/index.html",
+    "main.2a3ae30d.css.map": "/Term_Project-5130f2022/static/css/main.2a3ae30d.css.map",
+    "main.c317f85d.js.map": "/Term_Project-5130f2022/static/js/main.c317f85d.js.map",
+    "787.9744aba6.chunk.js.map": "/Term_Project-5130f2022/static/js/787.9744aba6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a3ae30d.css",
+    "static/js/main.c317f85d.js"
+  ]
+}
