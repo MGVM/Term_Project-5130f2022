@@ -2,8 +2,7 @@ import React, { useState } from "react";
 import { ArrowLeftOutlined, ArrowRightOutlined } from "@material-ui/icons";
 import styled from "styled-components";
 import { sliderItems } from "../../data";
-import Navbar from "../Navbar/Navbar";
-import { Link } from "react-router-dom";
+
 
 const Container = styled.div`
   width: 100%;

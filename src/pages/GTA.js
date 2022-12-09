@@ -59,7 +59,7 @@ const MinReq = styled.div`
     margin-left: 22%;
     padding: 10px;
     position: absolute;
-    top: 94%;
+    top: 96%;
     font-size: 19px;
 `
 const MinTitle = styled.h3`
@@ -72,7 +72,7 @@ const OffReq = styled.div`
     margin-left: 60%;
     padding: 10px;
     position: absolute;
-    top: 94%;
+    top: 96%;
     font-size: 19px;
 `
 const OffTitle = styled.h3`
@@ -129,7 +129,6 @@ const GTA = () => {
                     <li>Processor: Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHz</li>
                     <li>RAM: 4GB</li>
                     <li>Graphics: NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11)</li>
-                    <li>Sound Card: 100% DirectX 10 compatible</li>
                     <li>HDD Space: 65GB</li>                    
                 </ul>
         </MinReq>
