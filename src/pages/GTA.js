@@ -59,7 +59,7 @@ const MinReq = styled.div`
     margin-left: 22%;
     padding: 10px;
     position: absolute;
-    top: 96%;
+    top: 94%;
     font-size: 19px;
 `
 const MinTitle = styled.h3`
@@ -72,7 +72,7 @@ const OffReq = styled.div`
     margin-left: 60%;
     padding: 10px;
     position: absolute;
-    top: 96%;
+    top: 94%;
     font-size: 19px;
 `
 const OffTitle = styled.h3`
