@@ -1,3 +1,19 @@
+Access the web application - https://mgvm.github.io/Term_Project-5130f2022/
+
+Steps to access our web application on local machine:
+
+Step 1 : Clone the repository to your local machine. 
+Step 2 : Open Terminal 
+Step 3 : Please install dependencies by typing :  npm install - -save   , in the terminal 
+Step 4 : To run the application , type  : npm start 
+
+Note : To run any of these commands , the user must install node JS. 
+To install node JS, please click the link given below : 
+https://nodejs.org/en/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
